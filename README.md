@@ -40,7 +40,7 @@ and go inside it
 
 - now **if you can** access github from work PC type 
 
-`git clone repoblabla`
+`git clone https://github.com/Fambly/Sloker.git`
 
 if you can't, then somehow copy code to some pastebin and paste it inside the file
 
