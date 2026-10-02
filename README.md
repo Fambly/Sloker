@@ -30,17 +30,13 @@ and when it's finished, type
 `sudo apt install python3 git`
 
 *git will be useful only if your company hasn't blocked access to github website*
-- create directory for the game:
-
-`mkdir your_folder_name`
-
-and go inside it
-
-`cd your_folder_name`
-
 - now **if you can** access github from work PC type 
 
 `git clone https://github.com/Fambly/Sloker.git`
+
+then go to game directory
+
+`cd Sloker`
 
 if you can't, then somehow copy code to some pastebin and paste it inside the file
 
